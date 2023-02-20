@@ -1,0 +1,92 @@
+[
+    {
+        "id": "historia",
+        "titulo": "Historia",
+        "imagen": "../img/Letras/Chistoria.png",
+        "categoria": {
+            "nombre": "Letras",
+            "id": "letras"
+        },
+        "precio": 512
+    },
+    {
+        "id": "economia",
+        "titulo": "Economia",
+        "imagen": "../img/Letras/Ceconomia.png",
+        "categoria": {
+            "nombre": "Letras",
+            "id": "letras"
+        },
+        "precio": 458
+    },
+    {
+        "id": "algebra",
+        "titulo": "Álgebra",
+        "imagen": "../img/Matematicas/Calgebra.png",
+        "categoria": {
+            "nombre": "Matematicas",
+            "id": "matematicas"
+        },
+        "precio": 550
+    },
+    {
+        "id": "aritmetica",
+        "titulo": "Arítmetica",
+        "imagen": "../img/Matematicas/Caritmetica.png",
+        "categoria": {
+            "nombre": "Matematicas",
+            "id": "matematicas"
+        },
+        "precio": 575
+    },
+    {
+        "id": "geometria",
+        "titulo": "Geometría",
+        "imagen": "../img/Matematicas/Cgeometria.png",
+        "categoria": {
+            "nombre": "Matematicas",
+            "id": "matematicas"
+        },
+        "precio": 520
+    },
+    {
+        "id": "razmatematico",
+        "titulo": "Raz. Matematico",
+        "imagen": "../img/Matematicas/Crm.png",
+        "categoria": {
+            "nombre": "Matematicas",
+            "id": "matematicas"
+        },
+        "precio": 600
+    },
+    {
+        "id": "trigonometria",
+        "titulo": "Trigonometria",
+        "imagen": "../img/Matematicas/Ctrigonometria.png",
+        "categoria": {
+            "nombre": "Matematicas",
+            "id": "matematicas"
+        },
+        "precio": 580
+    },
+    {
+        "id": "fisica",
+        "titulo": "Fisica",
+        "imagen": "../img/Ciencias/Cfisica.png",
+        "categoria": {
+            "nombre": "Ciencias",
+            "id": "ciencias"
+        },
+        "precio": 545
+    },
+    {
+        "id": "biologia",
+        "titulo": "Biologia",
+        "imagen": "../img/Ciencias/Cbiologia.png",
+        "categoria": {
+            "nombre": "Ciencias",
+            "id": "ciencias"
+        },
+        "precio": 600
+    }
+]
